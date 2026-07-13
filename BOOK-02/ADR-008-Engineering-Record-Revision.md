@@ -191,6 +191,8 @@ Major.Minor
 |1.1|YYYY-MM-DD|Updated structure|
 
 
+---
+
 # 10. Связь с Git Repository
 
 Git является техническим механизмом хранения истории.
