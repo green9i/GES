@@ -182,13 +182,15 @@ Major.Minor
 
 Каждый инженерный объект должен содержать:
 
-```markdown
+
 ## Change History
 
 | Version | Date | Change |
 |---|---|---|
 |1.0|YYYY-MM-DD|Initial version|
 |1.1|YYYY-MM-DD|Updated structure|
+
+
 10. Связь с Git Repository
 
 Git является техническим механизмом хранения истории.
