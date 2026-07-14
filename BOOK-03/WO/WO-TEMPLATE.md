@@ -1,3 +1,15 @@
+---
+id: WO-TEMPLATE
+title: Work Order Template
+type: Template
+version: 1.0
+status: Active
+owner: GES | 00 | Chief Architect
+language: ru-RU
+created: 2026-07-13
+modified: 2026-07-14
+---
+
 # Work Order Template
 
 ## 1. Идентификатор
